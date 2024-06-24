@@ -1,0 +1,2 @@
+This is a project which was created on request of my mom, to share some painting she made with the world.
+It was my first project using HTML5 and CSS3. It's a static multi page project, using PHP only for displaying photos from directories. Right now only photos I left inside those dirs are located on the page in menu "Moje Obrazy" and then inside "Moje małe światy" album, just for letting people know how this script works and to let them see the results in the browser.

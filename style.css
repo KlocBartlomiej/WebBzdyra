@@ -1,0 +1,94 @@
+Body{
+	background-image: url("img/pajeczyna.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	text-size: 20px;
+	font-family: 'Playfair Display', serif;
+}
+
+#container{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	background-color: #303030;
+}
+
+#toplogo{
+	margin-bottom: 15px;
+}
+
+#refer{
+	background-color: #202020;
+	color: orange;
+	text-align: center;
+	padding: 40px;
+}
+
+#menu{
+	min-width: 180px;
+	text-size: 22px;
+	float: left;
+}
+
+.menu-option{
+	background-color: #404040;
+	text-align: center;
+	padding: 10px;
+	border-bottom: 2px dotted orange;
+}
+
+
+.menu-option:0{
+	border-top: 2px dotted orange;
+}
+
+.menu-option:hover{
+	cursor: pointer;
+	background-color: #202020;
+	color: orange;
+}
+
+a:link{
+	text-decoration: none;
+	color: orange;
+}
+
+a:visited{
+	text-decoration: none;
+	color: orange;
+}
+
+#content{
+	max-width: 780px;
+	padding: 15px;
+	float: left;
+	min-height: 750px;
+}
+
+#footer{
+	background-color: #404040;
+	text-size: 22px;
+	text-align: center;
+	padding: 25px;
+	clear: both;
+}
+
+#footer:hover{
+	background-color: #202020;
+	color: orange;
+}
+
+.obraz{
+	background-color: #202020;
+	height: 100px;
+	width:160px;
+	padding: 15px;
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
